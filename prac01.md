@@ -14,4 +14,4 @@
 
 ### Career/Employability/Learning Insights:
 - Learning how to deploy websites with GitHub Pages and experimenting with UI/UX design using Figma are skills I can immediately apply to future projects. I also realised how important it is to combine theory with practice. Watching tutorials is helpful, and hands-on experimentation through platforms like CodePen will be an excellent way to learn. Moving forward, I’ll continue this learning approach by moving between tutorials and practical exercises.
-- 
+
