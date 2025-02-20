@@ -2,7 +2,7 @@
 
 ### Learning Activites & Resources: 
 I reviewed the WordPress  essentials by watching the linkcIn learning course [WordPress Essentials Training](https://www.linkedin.com/learning/wordpress-essential-training-2023).
-I gained an understanding of how to launch and edit a Joomla site by watching a few tutorials on YouTube. I found this tutorial very helpful. [Build a website from scratch with Joomla 5](https://www.youtube.com/watch?v=gkaEcCTyuH4)
+I gained an understanding of how to launch and edit a Joomla site by watching a few tutorials on YouTube. [HOW TO INSTALL Joomla 4 on XAMPP, cPanel & AWS:](https://www.youtube.com/watch?v=xF8MCvSTJLI&list=PLCxCi7K8musaNBepi-Pdj9Ij9nSwfM8J1) I found this tutorial very helpful. [Build a website from scratch with Joomla 5](https://www.youtube.com/watch?v=gkaEcCTyuH4)
 
 ### Estimated Hours: 
 - 12 hours 
