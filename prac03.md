@@ -1,7 +1,7 @@
 # **Week 3: WordPress Workflows & Child Themes**
 
 ## **Learning Activities & Resources**  
-This week, I explored WordPress workflows and child themes by watching the LinkedIn Learning course [Adding Your New Child Theme to a Live Site](https://www.linkedin.com/learning/wordpress-workflows-2015/adding-your-new-child-theme-to-a-live-site-on-the-web?autoSkip=true&resume=false&u=2223545). 
+This week, I explored WordPress workflows and child themes by watching the LinkedIn Learning course [WordPress: Workflows](https://www.linkedin.com/learning/wordpress-workflows-2015/adding-your-new-child-theme-to-a-live-site-on-the-web?autoSkip=true&resume=false&u=2223545). 
 
 ## **Estimated Hours**  
 6 hours
