@@ -9,7 +9,7 @@ This week, I explored agile workflows and release planning through the LinkedIn 
 ## **Content Insights**  
 One key takeaway from this learning course was how important daily stand-up meetings are in Agile workflows. These quick, focused meetings really help keep teams aligned and ensure that progress is being made. Setting clear goals and discussing any roadblocks helps everyone stay on track, preventing miscommunications and making it easier to meet deadlines.
 
-I also learned that making small, incremental changes throughout a project can significantly reduce complexity. This approach stood out to me because it’s especially valuable in software development. Rather than making large, disruptive changes all at once, focusing on manageable tasks and iterating regularly leads to smoother implementation. I can see how this helps avoid the stress and chaos of last-minute fixes or big revisions later on.
+I also learned that making small, incremental changes throughout a project can significantly reduce complexity. This approach stood out to me because it’s especially valuable in software development. Rather than making large, disruptive changes all at once, focusing on manageable tasks and iterating regularly leads to smoother implementation. I can see how this helps avoid the stress and chaos of last-minute fixes.
 
 
 ## **Career/Employability/Learning Insights**  
