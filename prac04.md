@@ -2,8 +2,11 @@
 
 ## Learning Activities
 [Information architecture | LinkedIn Learning](https://www.linkedin.com/learning/mapping-the-modern-web-design-process)
+
 [- How to Set Up a Local WordPress Environment (XAMPP Tutorial)](https://www.youtube.com/watch?v=suV93rTmTuA&t=312s)
+
 [- Instantly Create A Local Development Environment - Beginner To Pro](https://www.youtube.com/watch?v=TXqSC2od4-8&t=54s)
+
 [Easy Local WordPress Setup in 5 Minutes with Docker!](https://www.youtube.com/watch?v=gEceSAJI_3s&t=896s)
 
 ## Estimated Hours
